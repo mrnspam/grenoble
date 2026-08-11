@@ -8,9 +8,8 @@ De website wordt automatisch gepubliceerd via GitHub Pages bij iedere wijziging 
 
 - echte OpenStreetMap-kaart met straatnamen, vrij slepen en traploos zoomen
 - drie routevarianten
-- klikbare haltes met tijden en toelichting
-- routeblokken openen in Google Maps
-- volgende stop openen in Apple Kaarten
+- klikbare haltes met tijden en uitgebreide achtergrondverhalen
+- de volgende stop openen in Apple Kaarten of Google Maps
 - responsive ontwerp voor iPhone en desktop
 
 ## Lokale preview
