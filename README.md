@@ -6,7 +6,7 @@ De website wordt automatisch gepubliceerd via GitHub Pages bij iedere wijziging 
 
 ## Functies
 
-- sleepbare en zoombare kaart
+- echte OpenStreetMap-kaart met straatnamen, vrij slepen en traploos zoomen
 - drie routevarianten
 - klikbare haltes met tijden en toelichting
 - routeblokken openen in Google Maps
@@ -15,7 +15,7 @@ De website wordt automatisch gepubliceerd via GitHub Pages bij iedere wijziging 
 
 ## Lokale preview
 
-Open `site/index.html` in een browser. Voor de kaartbibliotheek is een internetverbinding nodig.
+Open `site/index.html` in een browser. Voor de kaartbibliotheek en kaarttegels is een internetverbinding nodig.
 
 ## Website
 
