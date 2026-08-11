@@ -16,3 +16,7 @@ De website wordt automatisch gepubliceerd via GitHub Pages bij iedere wijziging 
 ## Lokale preview
 
 Open `site/index.html` in een browser. Voor de kaartbibliotheek is een internetverbinding nodig.
+
+## Website
+
+[Open de interactieve Grenoble-dagroute](https://mrnspam.github.io/grenoble/)
